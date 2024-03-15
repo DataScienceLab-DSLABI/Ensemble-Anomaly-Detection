@@ -5,7 +5,7 @@ Ensemble Anomaly Detection
 This project develops an ensemble approach for robust anomaly management in complex system monitoring. Various unsupervised learning algorithms are trained on distributed feature spaces and temporal windows to produce a collection of base anomaly detectors. Model inferences are aggregated through techniques like voting and stacking to produce meta-predictions. The outcomes provide reliable anomaly coverage through synergistic consensus between diverse, independent detectors. 
 
 # Overleaf link:
-[here](https://www.overleaf.com/project/65ec46bb88a8955d4b8742d5)
+[here](https://www.overleaf.com/read/xyfzswgsqmgd#abe370)
 
 # Baseline: 
 here

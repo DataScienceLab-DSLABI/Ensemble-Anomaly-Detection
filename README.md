@@ -9,6 +9,3 @@ This project develops an ensemble approach for robust anomaly management in comp
 
 # Baseline: 
 [here](https://drive.google.com/file/d/1UWqWreV2nq0rC0bP5E149QM8pgoh4jHE/view?usp=sharing)
-
-# Google colab: 
-[here](https://colab.research.google.com/drive/1k9V6Lg0EH3_vdpDc72SZNoYVwOajak_6?usp=sharing)
